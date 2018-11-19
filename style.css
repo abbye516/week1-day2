@@ -1,0 +1,140 @@
+
+/*
+#parent{
+    background-color: mediumpurple;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    }
+    
+    
+   .child{
+    width:30px;
+    position: absolute;
+    background-color: gainsboro;
+    bottom:10px;
+
+
+
+   } 
+    
+    #one{
+    height: 30px;
+    left:2%;
+  
+    }
+    
+    #two{
+    height:90px;
+    left: 12%;
+    }
+
+    #three{
+    height: 140px;
+    left: 22%;
+    }
+    
+    #four{
+    height: 120px;
+    left: 32%;
+    }
+    
+    #five{
+    height: 90px;
+    left: 42%;
+    } 
+    
+    #six{
+    height: 60px;
+    left: 52%;
+    }
+    
+    .para{
+    font-size: 20px;
+    position: absolute;
+    }
+    
+
+    
+    #money{
+    margin-left:10px;
+    top:1opx;
+    }
+*/
+/*
+    
+    #time{
+    position: absolute;
+    bottom:0;
+    right:10px;
+    margin-right: 5px;
+
+    }
+    
+    
+    
+#magnet{
+width:400px;
+height: 400px;
+background-color: white;
+position: relative;
+margin-left: 40px;
+}
+
+.graybox{
+width:100px;
+height:100px;
+background-color: gray;
+border-radius: 5px  5px 0 0;
+position: absolute;
+}
+
+#two{
+left: 400px;
+}
+
+.horizontal{
+background-color: red;
+position: absolute;
+height: 200px;
+width: 100px;
+top:100px;
+border-bottom-right-radius: 5px;
+
+}
+
+#right{
+left: 400px;
+}
+
+#vertical{
+top:300px;
+background-color: red;
+width: 500px;
+height: 100px;
+position: absolute;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+*/
+
+
+.chocolate{
+background-color: black;
+width: 500px;
+height: 200px;
+position: relative
+}
+
+
+.rowone{
+float:left;
+width 25%
+margin:5px;
+height: 100px;
+width:100px;
+background-color: #66320E;
+
+
+}
+
